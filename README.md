@@ -1,1 +1,1 @@
-This is Stefan Blendulfs first git project!"
+This is Stefan Blendulfs first git project!
